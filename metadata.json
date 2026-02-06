@@ -1,0 +1,7 @@
+{
+  "name": "Achadinhos Pro - Affiliate Showcase",
+  "description": "A high-performance affiliate storefront for showcasing curated finds with full admin dashboard and analytics tracking.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
